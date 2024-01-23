@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  LanguageDemo
+
+  Created by Marco Antonio Flores Perez on 22/01/24.
+  
+*/
+
+"Welcome to our app!" = "Welcome to our app!";
+"This is screen A" = "This is screen A";
+"This is screen B" = "This is screen B";
+"This is screen C" = "This is screen C";
+"Next screen" = "Next screen";
+"Root screen" = "Root screen";
